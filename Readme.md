@@ -73,6 +73,17 @@
   <a href="https://scikit-learn.org/stable/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </a>
+  <!-- Figma -->
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
+</a>
+<img width="12" />
+
+<!-- MetaMask -->
+<a href="https://metamask.io/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/MetaMask_Fox.svg" height="40" alt="MetaMask logo" />
+</a>
+
 </div>
 
 ###
