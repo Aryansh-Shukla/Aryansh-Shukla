@@ -84,6 +84,9 @@
   <img src="https://trufflesuite.com/img/truffle-logo-dark.svg" height="40" alt="Truffle logo" />
 </a>
 <img width="12" />
+<a href="https://azure.microsoft.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="40" alt="Microsoft Azure logo" />
+</a>
 
 </div>
 
