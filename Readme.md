@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a final year undergrad at Jaypee Institute of Information Technology. I'm passionate about exploring new technologies, solving problems, and working on innovative projects. I enjoy learning new languages and tools to enhance my development skills. Let's connect and collaborate!</p>
+<p align="left">I'm a Computer Science Engineering UG from Jaypee Institute of Information Technology. I'm passionate about exploring new technologies, solving problems, and working on innovative projects. I enjoy learning new languages and tools to enhance my development skills. Let's connect and collaborate!</p>
 
 ###
 
