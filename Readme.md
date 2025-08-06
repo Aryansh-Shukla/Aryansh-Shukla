@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Final year undergrad at Jaypee Institute of Information Technology.<br>🔍 Interested in Blockchain Development, Data Analysis, and Machine Learning, UI/UX Design.<br>💻 Always eager to learn and explore new technologies.<br>🤝 Open to collaborating on exciting projects and challenges.</p>
+<p align="left">🎓 Computer Science UG From Jaypee Institute of Information Technology.<br>🔍 Interested in Data Analysis, Machine Learning, Artificial Intelligence.<br>💻 Always eager to learn and explore new technologies.<br>🤝 Open to collaborating on exciting projects and challenges.</p>
 
 ###
 
