@@ -28,19 +28,17 @@
 
 ###
 
-<div align="left">
+<p align="left">
   <a href="https://x.com/aryanshshu87068?s=21" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="x logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/aryansh-shukla-ab004324a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://www.behance.net/aryanshshukla1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo" />
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter logo" />
   </a>
   <a href="mailto:aryanshshukla1711@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail logo" />
   </a>
+  <a href="https://www.linkedin.com/in/aryansh-shukla-ab004324a" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn logo" />
+  </a>
+</p>
 </div>
 
 ###
